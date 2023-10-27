@@ -81,6 +81,12 @@ header {
     }
 }
 
+.vfrc-card {
+    box-shadow: 2px 2px 5px -4px rgba(0,0,0,0.5);
+    border-radius: 4px;
+    background-color: var(--demo-color-secondary);
+}
+
 .vfrc-button {
     color:  var(--demo-color-primary) !important;
     border-color:  var(--demo-color-primary) !important;
