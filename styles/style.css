@@ -74,6 +74,10 @@ header {
     }
 }
 
+.vfrc-card--content {
+    background-color: var(--demo-color-secondary);
+}
+
 .vfrc-user-response {
     .vfrc-message {
         background-color:  var(--demo-color-primary);
